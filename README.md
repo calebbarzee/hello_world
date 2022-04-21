@@ -4,7 +4,7 @@ This repository is intended to expand the author's understanding of the java pro
 
 The software present in this repository is comprised of simple programs based on practice problems to learn core language functionality.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xUg8v5n-CYo)
 
 # Development Environment
 
@@ -17,8 +17,6 @@ Extensions: Language Support for Java by Red Hat | Debugger for Java by Microsof
 Java
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 -   [Java Language Tutorial](https://docs.oracle.com/javase/tutorial/java/index.html)
 -   [Installing Java on MacOS](https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-macos.htm#JSJIG-GUID-2FE451B0-9572-4E38-A1A5-568B77B146DE)
